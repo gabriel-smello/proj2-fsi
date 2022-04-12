@@ -23,6 +23,6 @@ Avaliações extras:
 
 
 ## Fontes
-https://stackoverflow.com/questions/39770376/scikit-learn-get-accuracy-scores-for-each-class
-https://chroniclesofai.com/transfer-learning-with-keras-resnet-50/
+https://stackoverflow.com/questions/39770376/scikit-learn-get-accuracy-scores-for-each-class \
+https://chroniclesofai.com/transfer-learning-with-keras-resnet-50/ \
 https://stackoverflow.com/questions/45930750/how-to-output-per-class-accuracy-in-keras
