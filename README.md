@@ -20,3 +20,9 @@ CNN ResNet-18, com transferência de aprendizagem, e gere uma classificação fi
 Avaliações extras:
 1. Métricas de acurácia, revocação e f1 em todas as classes; (2,0 ptos)
 2. Pequeno relatório/texto indicando resultados de sucesso e potenciais melhorias futuras; (3,0 ptos)
+
+
+## Fontes
+https://stackoverflow.com/questions/39770376/scikit-learn-get-accuracy-scores-for-each-class
+https://chroniclesofai.com/transfer-learning-with-keras-resnet-50/
+https://stackoverflow.com/questions/45930750/how-to-output-per-class-accuracy-in-keras
