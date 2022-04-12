@@ -1,4 +1,6 @@
 # Repositório para o projeto individual 2 da matéria de Fundamentos de Sistemas Inteligentes
+ 
+Link Colab: https://colab.research.google.com/drive/1gcDRnrJAjNq6lIYLBxEa3-IjYja_SHSd?usp=sharing
 
 A classificação de insetos prejudiciais em plantações comerciais é uma necessidade, visto que as
 técnicas de manejo a serem aplicadas dependerão dessa correta classificação.
